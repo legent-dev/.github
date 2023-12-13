@@ -1,1 +1,1 @@
-# LIGENT github homepage
+# LEGENT github homepage
