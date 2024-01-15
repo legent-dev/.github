@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-LEGENT is a platform for language-interactive embodied agents.
+LEGENT is a platform for language-interactive embodied agents, developed by a research team from THUNLP. 
 
-The platform is dedicated to creating future robots capable of talking, seeing, and acting based on large embodied models from virtual game world to real world.
-We aspire to democratize the research of large embodied models, enabling everyone interested to study this field without barriers. Let's start our journey!
+The platform is dedicated to creating future robots capable of chatting, seeing, and acting based on large models from virtual game world to real world.
+We aspire to democratize the research in this field, enabling everyone interested to study this field without barriers.
 
 <!--
 
